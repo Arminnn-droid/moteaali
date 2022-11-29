@@ -6,4 +6,4 @@ the class name is ArminMath.
 
 functions have a accurecy parametr so the calling will be like:
                   
-                  sin( tetta = 90, acc = 10 )
+                  ArminMathObject.sin( tetta = 90, acc = 10 )
